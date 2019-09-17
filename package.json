@@ -1,0 +1,27 @@
+{
+  "name": "junker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "line-reader.js",
+  "dependencies": {
+    "project-name-generator": "^2.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaharx/junker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shaharx/junker/issues"
+  },
+  "homepage": "https://github.com/shaharx/junker#readme"
+}
