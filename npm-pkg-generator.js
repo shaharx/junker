@@ -3,7 +3,7 @@ const { spawn } = require('child_process')
 const png = require('project-name-generator')
 
 const tata = process.cwd()
-// console.log(process.argv[2])
+
 for (var i = 0; i < process.argv[2]; i++) {
     createNpmPackage()
 }

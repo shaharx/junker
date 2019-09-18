@@ -4,6 +4,7 @@
   "description": "",
   "main": "line-reader.js",
   "dependencies": {
+    "docker-cli-js": "^2.6.0",
     "project-name-generator": "^2.1.7"
   },
   "devDependencies": {},
